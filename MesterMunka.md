@@ -43,15 +43,17 @@ Dulovits Jenő:
 -	**Nemzetisége:** Magyar
 -	**Foglalkozása:** matematikus, feltaláló, fényképész
 
-Élete
+## Élete
+
  A pesti egyetemen matematika-fizika szakos tanári diplomát szerzett, ezután középiskolai matematikatanárként, a második világháború után a Gamma Művekben konstruktőrként dolgozott. Az 1920-as évek közepén kezdett el intenzíven fényképezéssel foglalkozni.
 
 
-Fontos évszámok:
-•	1903 június22: születésének ideje
-•	1920-as évek: ekkor kezdet intenzíven fényképezéssel
-•	1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott
-•	1943: 1943-ban szabadalmaztatta a fotótechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
+**Fontos évszámok:**
+
+- 1903 június22: születésének ideje
+- 1920-as évek: ekkor kezdet intenzíven fényképezéssel
+- 1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott
+- 1943: 1943-ban szabadalmaztatta a fotótechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
 
 Az első reflexes gép
 --------------------
