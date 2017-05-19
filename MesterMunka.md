@@ -176,7 +176,7 @@ BEÁLLITÁSOK:
 
 
 
-köszönetnyilvánítás
+Köszönetnyilvánítás
 -------------------
 
 Köszönöm,mindenkinek aki segített a mestermunkám készítése során: 
