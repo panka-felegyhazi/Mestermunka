@@ -30,6 +30,8 @@ Egy kis izzelítő a fotózás különböző területeiből
 
 
 Dulovits Jenő:
+Mért pont ő?
+Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyn híres magyar fotóművész volt. Ő a példa képem.
 --------------
 
 > " A Fény szerelmese vagyok. Hiszem és vallom, hogy a fénykép legnagyobb erénye csakis a Fény kifejezése, hangsúlyozása lehet. Bizonyára mások is vallják ezt, mert sokat írnak és szavalnak a Fény fontos szerepéről, de nem mutatják meg a hozzá vezető utat, mivel nem ismerik. Én rátaláltam erre az útra és azt őszintén, becsületesen meg is mutatom. Add a kezed, kedves Olvasó, tarts velem és elvezetlek a Fény, meg a vele kifejezhető Szépség birodalmába. Azt akarom, hogy Te is a Fény szerelmese légy. Mindent elkövetek ennek az érdekében, bár a könyv méretei, az anyagi korlátok eléggé megkötik a kezeimet. Mindezek ellenére is bízom abban, hogy sikerül majd elérnem a célomat. "
@@ -41,36 +43,36 @@ Dulovits Jenő:
 - **Elhunyt:** 1972 Julius 24. Budapest
 -	**Állampolgársága:** Magyar
 -	**Nemzetisége:** Magyar
--	**Foglalkozása:** matematikus, feltaláló, fényképész
+-	**Foglalkozása:** matematikus, feltaláló, fényképész és tanár.
 
-## Élete
+### Élete
 
- A pesti egyetemen matematika-fizika szakos tanári diplomát szerzett, ezután középiskolai matematikatanárként, a második világháború után a Gamma Művekben konstruktőrként dolgozott. Az 1920-as évek közepén kezdett el intenzíven fényképezéssel foglalkozni.
+ A pesti egyetemen matematika-fizika szakos tanári diplomát szerzett, ezután középiskolai matematikatanárként, a második világháború után a Gamma Művekben konstruktőrként dolgozott. Az 1920-as évek közepén kezdett el intenzíven a fényképezéssel foglalkozni.
 
 
 **Fontos évszámok:**
 
 - 1903 június22: születésének ideje
-- 1920-as évek: ekkor kezdet intenzíven fényképezéssel
-- 1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott
+- 1920-as évek: ekkor kezdet intenzíven a fényképezéssel foglalkozni.
+- 1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott.
 - 1943: 1943-ban szabadalmaztatta a fotótechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
 
-Az első reflexes gép
+Az első tükör reflexes gép
 --------------------
 
 **Fefeltalálta:** Dulovits Jenő
 **Neve:** DUFLEX
 
 
-A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártásból bukkan elő, technikailag maga mögé utasítva a Leicát, a contaxot, az Exaktát, hogy csak a németeket említsük. A Szovjetunió végleg lemarad, meg hát kitűnően el van a Leica- és Contax-másolatokkal, illetve a háborús jóvátétel Exactákkal, Contaflexekkel. A japánok (Canon, Asahi - Pentax, Miranda, Nikon, Olympus...) még csak álmodoznak, szövögetik világmegváltó terveiket, részben éppen Dulovits tanár úr találmányaira alapozva.”[2]
-Ennek ellenére hamar leállítják nagy valószínűséggel szovjet nyomásra a sorozatgyártását gazdaságtalanságra hivatkozva. Nem tudni, pontosan hány Duflex készült a Gammában. Az egyik legkeresettebb gyűjtőobjektum. Működőképes és közepes esztétikai állapotú gép nem marad a milliós határ alatt ma az árveréseken. A különös műgonddal összeszerelt prototípust a Gamma Optikai Művek kötelességszerűen átadta a Műszaki Múzeumnak. Az összes többi magyar fényképezőgép társaságában itt volt a 001-es Duflex kiállítva a kilencvenes években, mígnem a múzeumba betörtek, és a teljes magyar kollekciót elrabolták. Kifürkészhetetlen utakon jutott el a lopott proto-Duflex Japánba és került egy dúsgazdag gyűjtő tulajdonába. Felmerült az Országos Műszaki Múzeum részéről a visszavásárlás gondolata is, de még a négymillió forintos ár sem elég kecsegtető az új tulajdonos számára.
+A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártásból bukkan elő, technikailag maga mögé utasítva a Leicát, a contaxot, az Exaktát, hogy csak a németeket említsem. A Szovjetunió végleg lemarad, meg hát kitűnően el van a Leica- és Contax-másolatokkal, illetve a háborús jóvátétel Exactákkal és Contaflexekkel. Ajapánok(Canon, Asahi - Pentax, Miranda, Nikon, Olympus...) még csak álmodoznak, szövögetik világmegváltó terveiket, részben éppen Dulovits Jenő találmányaira alapozva.”
+Ennek ellenére hamar leállítják nagy valószínűséggel Szovjetunió nyomásra a sorozatgyártását gazdaságtalanságra hivatkozva. Nem tudni, pontosan hány Duflex készült a Gammában. Az egyik legkeresettebb gyűjtőobjektum. Működőképes és közepes esztétikai állapotú gép nem marad a milliós határ alatt ma az árveréseken. A különös műgonddal összeszerelt prototípust a Gamma Optikai Művek kötelességszerűen átadta a Műszaki Múzeumnak. Az összes többi magyar fényképezőgép társaságában itt volt a 001-es Duflex kiállítva a kilencvenes években, mígnem a múzeumba betörtek, és a teljes magyar kollekciót elrabolták. Kifürkészhetetlen utakon jutott el a lopott proto-Duflex Japánba és került egy dúsgazdag gyűjtő tulajdonába. Felmerült az Országos Műszaki Múzeum részéről a visszavásárlás gondolata is, de még a négymillió forintos ár sem elég kecsegtető az új tulajdonos számára.
 
 
 Két könyve még ma is kapható:
 
 
 Ezen kívül más nyelveken is írt könyveket.
-
+pl.: Német
 
 Képei:
 
@@ -91,14 +93,8 @@ Ez pedig egy kicsit anatómiai. Ez az egyik legfontosabb területe a fotó műv�
 Gyönyörű portrékat is készített.
 
 
-Ha hátulról jön akkor vigyázni kell hogy ne legyen benne az árnyékod a képbe.
-ha szemből jön a fény akkor vigyázzunk hogy ne égjen ki a képünk.( ezt túl exponált képnek hívjuk)
-Ha kevés a fény és vaku nélkül dolgozunk akkor sötét lesz a kép (ezt alulexponált képnek hívjuk)
 
-
-
-
-Tehnika:
+ Tehnika:
 --------
 
 
@@ -106,11 +102,11 @@ Tehnika:
 
 
 
-### Az objektívet:
+### Az objektívek:
 
 **Normál látószögű objektív:** a normál látószögű objektív látószöge hasonló az ember szemének a látószögéhez. Gyújtótávolsága nagyjából megegyezik a film vagy Szenzor képátlójával. A kis filmes fényképezőgépen ez nagyjából 50 mm. Az ez alatti gyújtótávolságú objektíveket **nagylátószögű objektív**-nek nevezzük. Az 50 mm fölöttieket pedig **teleobjektív**-nek nevezzük. A nagylátószögű objektívek a hátteret és a közelben lévő dolgokat aránytalanul nagyobbnak mutatják ezért nem szoktuk használni portréfotózáshoz mert eltorzítják az arcot. Működésük szerint kétféle objektív a zoom objektív a és a fix objektív.
 
-A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak de a jobb két minőségű objektív majd nagyjából egy két rövid fejezet kellívek drágábbak és nehezebbek az olcsóbbaknak gyengébb a két minőséget és kisebb a fényerejük .A fix objektív gyújtótávolsága nem változtatható. Az én kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi és nagy fényerejű könnyű és portréfotózásra is nagyon alkalmas.
+A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak de a jobb kép minőségű objektív majd nagyjából egy kép rövid fejezet kellívek drágábbak és nehezebbek az olcsóbbaknak gyengébb a kép minőséget és kisebb a fényerejük .A fix objektív gyújtótávolsága nem változtatható. Az én kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi és nagy fényerejű könnyű és portréfotózásra is nagyon alkalmas.
 
 
 ### Mi az a fényképszerűség?
@@ -120,12 +116,12 @@ A fényképezőgép objektívja objektíven azaz valóságnak megfelelően látj
 
 ### A térhatás:
 
-Mivel fénykép is mint a festmény kétdimenziós ezért a térhatás tökéletes ábrázolása a fényképezésnél is kihívás. Igazából erre több lehetőség is van(a térhatás elérésére). Egyik eszköze a kis mélységélesség. Ha jól alkalmazzák akkor a téma éles a háttér és az előtér életlen. Javítjs a térhatást az ellenfény alkalmazása vagy a levegőben terjengő por,füst egyéb más ami befolyásolja a levegő átlátszóságát. A térhatás érzékeltetésére használhatjuk a képen elhelyezkedő vonalakat is, fontos hogy a képen hova helyezzük el a horizontot (ez tágíthatja vagy szűkítheti a teret) és például a kép sarkából a kép belseje felé haladó vonalak erősítik a térhatást.
+Mivel fénykép is mint a festmény kétdimenziós ezért a térhatás tökéletes ábrázolása a fényképezésnél is kihívás. Igazából erre több lehetőség is van(a térhatás elérésére). Egyik eszköze a kis mélységélesség. Ha jól alkalmazzák akkor a téma éles a háttér és az előtér életlen. Javítja a térhatást az ellenfény alkalmazása vagy a levegőben terjengő por,füst egyéb más ami befolyásolja a levegő átlátszóságát. A térhatás érzékeltetésére használhatjuk a képen elhelyezkedő vonalakat is, fontos hogy a képen hova helyezzük el a horizontot (ez tágíthatja vagy szűkítheti a teret) és például a kép sarkából a kép belseje felé haladó vonalak erősítik a térhatást.
 
 
 ### A vonalvezetés:
 
-Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. Az egyenes vonalak lehetőleg ne legyenek párhuzamosak kép széleivel. A párhuzamosság unalmas lehet. A távolba mutató egyenesek találkozási pontja az úgynevezett végtelen pont ne legyen a kép szélén. A görbe vonalak a kép téglalap vagy négyzet alakú kivágásába sokkal jobban hatnak. A kép különböző szélső pontjaiból induló vonalak alkalmasak lehetnek arra hogy a szemlélő tekintetét a témára vezessük.
+Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. Az egyenes vonalak lehetőleg ne legyenek párhuzamosak a kép széleivel. A párhuzamosság unalmas lehet. A távolba mutató egyenesek találkozási pontja az úgynevezett végtelen pont ne legyen a kép szélén. A görbe vonalak a kép téglalap vagy négyzet alakú kivágásába sokkal jobban hatnak. A kép különböző szélső pontjaiból induló vonalak alkalmasak lehetnek arra hogy a szemlélő tekintetét a témára vezessük.
 
 
 ### A tér elosztás vagy a terület elosztás:
@@ -168,17 +164,3 @@ elkapni a pillanatot
 És fotózás
 
 BEÁLLITÁSOK:
-
-
-
-
-
-
-
-
-Köszönetnyilvánítás
--------------------
-
-Köszönöm,mindenkinek aki segített a mestermunkám készítése során: 
-Az osztályfőnökeimnek:Veroninak és Icának
-A konzulensemnek: Félegyházi Gábornak ( az apukámnak) és az anyukámnak.
