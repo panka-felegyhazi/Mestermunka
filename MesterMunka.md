@@ -176,7 +176,9 @@ BEÁLLITÁSOK:
 
 
 
-köszönetnyilvánítás:
+köszönetnyilvánítás
+-------------------
+
 Köszönöm,mindenkinek aki segített a mestermunkám készítése során: 
 Az osztályfőnökeimnek:Veroninak és Icának
 A konzulensemnek: Félegyházi Gábornak ( az apukámnak) és az anyukámnak.
