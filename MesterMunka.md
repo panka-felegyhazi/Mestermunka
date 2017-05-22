@@ -64,10 +64,6 @@ Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyn híres magyar fot�
 - 1943-ban szabadalmaztatta a fototechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
 
 
-Dulovits Jenő fotói
--------------------
-
-
 
 Az első tükör reflexes gép
 --------------------
@@ -82,21 +78,19 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 
 Két könyve még ma is kapható:
 
-- Művészi fényképezés
-- 
+- Művészi fényképezés ![image](http://)
+- Így fényképezek
 
 
-Ezen kívül más nyelveken is írt könyveket.
-pl.: Németül
+Magyar nyelveken németül is jelentetk meg könyvei.
 
 Képei:
 
 
+Dulovits Jenő fotói
+-------------------
+
 Nem csak a gyönyörű fiatal nőket fotózta, hanem egyaránt az idősebbeket is.
-
-
-
-
 
 
 Ez egy nagyon szép és tartalmas kép Dulovits Jenő gyűjteményéből. Nagyon sok érdekes és a korhoz képest nagyon fejlett tehnikával rendelkezik. Nagyon érdekelte az emberi test felépítése (leginkább a női test de ez érthető hisz férfi) ezért csomó olyan képe van ahol a modell mesztelen. Kiváló megfigyelő képessége van.
