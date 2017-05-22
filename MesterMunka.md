@@ -117,7 +117,7 @@ Tehnika:
 
 A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak. A fix objektív gyújtótávolsága nem változtatható( ezért fix objektív). 
 
-**Az én felszerelésem:** A gépem egy Nikon digitális tükör reflexes D90 -es.A kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi de nagy fényerejű, könnyű és portréfotózásra nagyon alkalmas. Szoktam még 18-55 mm-es zoom objektívvel is fényképezni.A zoom objekívvet tájképekekhez szoktam használni és utazásnál kültéren,mert igaz hogy kisebb a fényereje de mivel kezdőknek való ezért könnyű.
+**Az én felszerelésem:** A gépem egy Nikon digitális tükör reflexes D90 -es.A kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi de nagy fényerejű, könnyű és portréfotózásra nagyon alkalmas. Szoktam még 18-55 mm-es zoom objektívvel is fényképezni.A zoom objekívvet tájképekekhez szoktam használni és utazásnál kültéren,mert igaz hogy kisebb a fényereje de mivel kezdőknek való ezért könnyű és van benne autómata rázkódáscsökkentés.
 
 
 
