@@ -129,7 +129,7 @@ A fényképezőgép objektívje objektíven azaz valóságnak megfelelően látj
 
 ### A térhatás:
 
-Mivel fénykép is mint a festmény kétdimenziós ezért a térhatás tökéletes ábrázolása a fényképezésnél is kihívás. Igazából erre több lehetőség is van(a térhatás elérésére). Egyik eszköze a kis mélységélesség(). Ha jól alkalmazzák akkor a téma éles a háttér és az előtér pedig nem. Javítja a térhatást az ellenfény alkalmazása vagy a levegőben terjengő por,füst,köd egyéb más ami befolyásolja a levegő átlátszóságát. A térhatás érzékeltetésére használhatjuk a képen elhelyezkedő vonalakat is, fontos hogy a képen hova helyezzük el a horizontot (ez tágíthatja vagy szűkítheti a teret) és például a kép sarkából a kép belseje felé haladó vonalak erősítik a térhatást.
+Mivel fénykép is mint a festmény kétdimenziós ezért a térhatás tökéletes ábrázolása a fényképezésnél is kihívás. Igazából erre több lehetőség is van(a térhatás elérésére). Egyik eszköze a kis mélységélesség. Ez az én kedvenc technikám,mert ezzel az előtér ,a téma és a háttér elkülöníthető. Ha jól alkalmazzák akkor a téma éles a háttér és az előtér pedig nem. Javítja a térhatást az ellenfény alkalmazása vagy a levegőben terjengő por,füst,köd egyéb más ami befolyásolja a levegő átlátszóságát. A térhatás érzékeltetésére használhatjuk a képen elhelyezkedő vonalakat is, fontos hogy a képen hova helyezzük el a horizontot (ez tágíthatja vagy szűkítheti a teret) és például a kép sarkából a kép belseje felé haladó vonalak erősítik a térhatást.
 
 
 ### A vonalvezetés:
