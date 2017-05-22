@@ -11,8 +11,8 @@ TARTALOM:
 ----------------
 
 - Bevezetés
-- Dulovics Jenő
-- Dulovics Jenő fotói
+- Egy híres fényképész bemutatása (Dulovits Jenő)
+- Dulovits Jenő fotói
 - Az első tükör reflexes gép
 - Portré fotózás
 - Fótózás elmélet és technika
@@ -30,8 +30,10 @@ Mert szeretem a fotózást. Mert nekem fontos hogy megörökitsek egy-egy pillan
 Egy kis izzelítő a fotózás különböző területeiből
 
 
-Dulovits Jenő:
---------------
+Egy híres fényképész bemutatása:
+--------------------------------
+
+**Dulovits Jenő**
 
 Mért pont ő?
 
@@ -60,6 +62,12 @@ Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyn híres magyar fot�
 - 1920-as évek: ekkor kezdet intenzíven a fényképezéssel foglalkozni.
 - 1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott.
 - 1943-ban szabadalmaztatta a fototechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
+
+
+Dulovits Jenő fotói
+-------------------
+
+
 
 Az első tükör reflexes gép
 --------------------
