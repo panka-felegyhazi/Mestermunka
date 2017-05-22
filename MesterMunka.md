@@ -78,8 +78,13 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 
 Két könyve még ma is kapható:
 
-- Művészi fényképezés ![image]()
-- Így fényképezek
+- Művészi fényképezés   
+
+![Művészi fényképezés](img/muveszi-fenykepezes.jpeg)
+
+- Így fényképezek   
+
+![Így fényképezek](img/muveszi-fenykepezes.jpeg)
 
 
 Magyar nyelveken németül is jelentetk meg könyvei.
