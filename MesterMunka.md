@@ -62,6 +62,18 @@ Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyon híres magyar fot
 - 1931-től 1958-ig: 13  szabadalmat jelentett be, egy részük a fénykép éles rajzát feloldó, lággyá tevő előtétlencsére, míg a többi egy gyakorló fényképész által elképzelt, ideálisan használható fényképezőgépre vonatkozott.
 - 1943-ban szabadalmaztatta a fototechnika történetében korszakos jelentőségű Duflex-et, a világon az első tükörreflexes, kisfilmes és beugrórekeszes objektívvel működő fényképezőgépet, és ő volt Szőts István Kádár Kata című filmjének operatőre, s több szakkönyve jelent meg.
 
+Két könyve még ma is kapható:
+
+- Művészi fényképezés   
+
+![Művészi fényképezés](img/muveszi-fenykepezes.jpeg)
+
+- Így fényképezek   
+
+![Így fényképezek](img/igy-fenykepezek.jpeg)
+
+
+Magyar nyelveken németül is jelentetk meg könyvei.
 
 
 Az első tükörreflexes gép
@@ -76,19 +88,6 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 
 ![Deflex, az első tükörreflexes gép](img/duflex.jpeg)
 
-
-Két könyve még ma is kapható:
-
-- Művészi fényképezés   
-
-![Művészi fényképezés](img/muveszi-fenykepezes.jpeg)
-
-- Így fényképezek   
-
-![Így fényképezek](img/igy-fenykepezek.jpeg)
-
-
-Magyar nyelveken németül is jelentetk meg könyvei.
 
 
 
