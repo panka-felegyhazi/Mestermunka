@@ -40,7 +40,7 @@ Mért pont ő?
 Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyon híres magyar fotóművész volt. Ő a példa képem.
 
 
-> " A Fény szerelmese vagyok. Hiszem és vallom, hogy a fénykép legnagyobb erénye csakis a Fény kifejezése, hangsúlyozása lehet. Bizonyára mások is vallják ezt, mert sokat írnak és szavalnak a Fény fontos szerepéről, de nem mutatják meg a hozzá vezető utat, mivel nem ismerik. Én rátaláltam erre az útra és azt őszintén, becsületesen meg is mutatom. Add a kezed, kedves Olvasó, tarts velem és elvezetlek a Fény, meg a vele kifejezhető Szépség birodalmába. Azt akarom, hogy Te is a Fény szerelmese légy. Mindent elkövetek ennek az érdekében, bár a könyv méretei, az anyagi korlátok eléggé megkötik a kezeimet. Mindezek ellenére is bízom abban, hogy sikerül majd elérnem a célomat. "
+> " A Fény szerelmese vagyok. Hiszem és vallom, hogy a fénykép legnagyobb erénye csakis a Fény kifejezése, hangsúlyozása lehet. Bizonyára mások is vallják ezt, mert sokat írnak és szavalnak a Fény fontos szerepéről, de nem mutatják meg a hozzá vezető utat, mivel nem ismerik. Én rátaláltam erre az útra és azt őszintén, becsületesen meg is mutatom. Add a kezed, kedves Olvasó, tarts velem és elvezetlek a Fény, meg a vele kifejezhető Szépség birodalmába. Azt akarom, hogy Te is a Fény szerelmese légy. Mindent elkövetek ennek az érdekében, bár a könyv méretei, az anyagi korlátok eléggé megkötik a kezeimet. Mindezek ellenére is bízom abban, hogy sikerül majd elérnem a célomat. "   
 > **Dulovits Jenő:** *Művészi fényképezés. Stephaneum Nyomda, 1942. 6. oldal*
 
 
