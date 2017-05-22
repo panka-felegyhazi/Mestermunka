@@ -78,7 +78,7 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 
 Két könyve még ma is kapható:
 
-- Művészi fényképezés ![image](http://)
+- Művészi fényképezés ![image]()
 - Így fényképezek
 
 
