@@ -117,6 +117,9 @@ Tehnika:
 
 A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak. A fix objektív gyújtótávolsága nem változtatható( ezért fix objektív). Az én kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi de nagy fényerejű, könnyű és portréfotózásra nagyon alkalmas.
 
+**Az én felszerelésem:**
+
+
 
 ### Mi az a fényképszerűség?
 
