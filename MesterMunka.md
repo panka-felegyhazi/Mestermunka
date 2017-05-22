@@ -145,35 +145,9 @@ Fényképezéskor fontos a fénykép területének azaz a képtérnek az eloszt�
 FOTÓIM
 ------
 
-KÉSZITÉS:
-	Fény mérés beállítása, manuális fókusz beállítása,
-	Az modellnek mondani azt merre nézzen,
-	És fotózás
-                           BEÁIIÍTÁSOK:
+Köszönetnyilvánítás
+-------------------
 
-
-
-
-
-KÉSZITÉS:
-Fény mérés beállítása, manuális fókusz beállítása,
-Az modellnek mondani azt merre nézzen,elkapni a pillanatot
-És fotózás
-BEÁLLÍTÁSOK:
-
-
-KÉSZITÉS:
-Fény mérés beállítása, manuális fókusz beállítása,
-Az modellnek mondani azt hogy merre nézzen,
-elkapni a pillanatot
-És fotózás
-BEÁLLITÁSOK:
-
-
-KÉSZITÉS:
-Fény mérés beállítása, manuális fókusz beállítása,
-Az modellnek mondani azt hogy merre nézzen,
-elkapni a pillanatot
-És fotózás
-
-BEÁLLITÁSOK:
+Köszönöm,mindenkinek aki segített a mestermunkám készítése során: 
+Az osztályfőnökeimnek:Veroninak és Icának
+A konzulensemnek: Félegyházi Gábornak ( az apukámnak) és az anyukámnak.
