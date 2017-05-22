@@ -13,7 +13,7 @@ TARTALOM:
 - Bevezetés
 - Egy híres fényképész bemutatása (Dulovits Jenő)
 - Dulovits Jenő fotói
-- Az első tükör reflexes gép
+- Az első tükörreflexes gép
 - Portré fotózás
 - Fótózás elmélet és technika
 - Fotóim (rövid leírás)
