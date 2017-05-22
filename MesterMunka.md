@@ -73,7 +73,7 @@ Két könyve még ma is kapható:
 ![Így fényképezek](img/igy-fenykepezek.jpeg)
 
 
-Magyar nyelveken németül is jelentetk meg könyvei.
+Magyar nyelven kívül még németül is jelentetk meg könyvei.
 
 
 Az első tükörreflexes gép
