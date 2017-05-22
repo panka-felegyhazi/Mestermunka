@@ -65,8 +65,8 @@ Mert ő anyai ágon rokonom. És nem utorsó sorban egy nagyn híres magyar fot�
 
 
 
-Az első tükör reflexes gép
---------------------
+Az első tükörreflexes gép
+-------------------------
 
 **Feltalálta:** Dulovits Jenő
 **Neve:** DUFLEX
