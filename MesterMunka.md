@@ -139,7 +139,7 @@ Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. A
 
 ### A tér elosztás vagy a terület elosztása:
 
-Fényképezéskor fontos a fénykép területének azaz a kép térnek az elosztása. Ezt szoták a komponálásának vagy a kép kompozíciójának is nevezni. A kép széleivel vigyázni kell, nehogy kimaradjn,levágjunk valamit. Ezért kell megfelelő teret hagyni a széleken de fel is lehet rugni ezeket a szabályokat és direkt úgy nevezett szűkreszabott képet készíteni.
+Fényképezéskor fontos a fénykép területének azaz a kép térnek az elosztása. Ezt szoták a komponálásának vagy a kép kompozíciójának is nevezni. A kép széleivel vigyázni kell, nehogy kimaradjn,levágjunk valamit. Ezért kell megfelelő teret hagyni a széleken de fel is lehet rugni ezeket a szabályokat és direkt úgy nevezett szűkreszabott képet készíteni.Ezzel a megoldással ki lehet emelni a portré alany arc kifejezését, szemeit.
 
 
 FOTÓIM
