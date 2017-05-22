@@ -84,12 +84,11 @@ Két könyve még ma is kapható:
 
 - Így fényképezek   
 
-![Így fényképezek](img/muveszi-fenykepezes.jpeg)
+![Így fényképezek](img/igy-fenykepezek.jpeg)
 
 
 Magyar nyelveken németül is jelentetk meg könyvei.
 
-Képei:
 
 
 Dulovits Jenő fotói
