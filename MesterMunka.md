@@ -27,7 +27,7 @@ Mert szeretem a fotózást. Mert nekem fontos hogy megörökitsek egy-egy pillan
 
 *Mi is a mestermukám?*
 
-Egy kis izzelítő a fotózás különböző területeiből
+Egy kis izzelítő a fotózás különböző területeiből és eszközeiből.
 
 
 Egy híres fényképész bemutatása:
@@ -81,6 +81,8 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 
 
 Két könyve még ma is kapható:
+
+-
 
 
 Ezen kívül más nyelveken is írt könyveket.
