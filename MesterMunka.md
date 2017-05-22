@@ -139,7 +139,7 @@ Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. A
 
 ### A tér elosztás vagy a terület elosztása:
 
-Fényképezéskor fontos a fénykép területének azaz a kép térnek az elosztása.
+Fényképezéskor fontos a fénykép területének azaz a kép térnek az elosztása. Ezt soták
 
 
 FOTÓIM
