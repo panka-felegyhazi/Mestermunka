@@ -1,11 +1,11 @@
 Fotóművészet
 ============
 
-**készítette:** Félegyházi Panka
+**Készítette:** Félegyházi Panka
 
 **Konzulens:** Félegyházi Gábor József (apukám)
 
-**készült:** 2016-17
+**Készült:** 2016-17
 
 TARTALOM:
 ----------------
