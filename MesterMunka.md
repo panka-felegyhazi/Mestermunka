@@ -10,9 +10,10 @@ Fotóművészet
 TARTALOM:
 ----------------
 
+- Bevezetés
 - Dulovics Jenő
 - Dulovics Jenő fotói
-- Tükör reflexes gépek
+- Az első tükör reflexes gép
 - Portré fotózás
 - Fótózás elmélet és technika
 - Fotóim (rövid leírás)
@@ -97,7 +98,7 @@ Gyönyörű portrékat is készített.
 
 
 
- Tehnika:
+Tehnika:
 --------
 
 
