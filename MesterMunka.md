@@ -113,7 +113,7 @@ Fótózás elmélet és technika:
 
 ### Az objektívek:
 
-**Normál látószögű objektív:** a normál látószögű objektív látószöge hasonló az ember szemének a látószögéhez. Gyújtótávolsága nagyjából megegyezik a film vagy Szenzor képátlójával. A kis filmes fényképezőgépen ez nagyjából 50 mm. Az ez alatti gyújtótávolságú objektíveket **nagylátószögű objektív**-nek nevezzük. Az 50 mm fölöttieket pedig **teleobjektív**-nek nevezzük. A nagylátószögű objektívek a hátteret és a közelben lévő dolgokat aránytalanul nagyobbnak mutatják ezért nem szoktuk használni portréfotózáshoz mert eltorzítják az arcot. Működésük szerint kétféle objektívet ismerünk a zoom objektív a és a fix objektív alkalmas a portré fotózáshoz.
+**Normál látószögű objektív:** a normál látószögű objektív látószöge hasonló az ember szemének a látószögéhez. Gyújtótávolsága nagyjából megegyezik a film vagy Szenzor képátlójával. A kis filmes fényképezőgépen ez nagyjából 50 mm. Az ez alatti gyújtótávolságú objektíveket **nagylátószögű objektív**-nek nevezzük. Az 50 mm fölöttieket pedig **teleobjektív**-nek nevezzük. A nagylátószögű objektívek a hátteret és a közelben lévő dolgokat aránytalanul nagyobbnak mutatják ezért nem szoktuk használni portréfotózáshoz mert eltorzítják az arcot. Működésük szerint kétféle objektívet ismerünk a zoom objektívet a és a fix objektívet, utóbbi alkalmas a portré fotózáshoz.
 
 A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak. A fix objektív gyújtótávolsága nem változtatható( ezért fix objektív). 
 
