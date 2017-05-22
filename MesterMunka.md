@@ -115,9 +115,10 @@ Tehnika:
 
 **Normál látószögű objektív:** a normál látószögű objektív látószöge hasonló az ember szemének a látószögéhez. Gyújtótávolsága nagyjából megegyezik a film vagy Szenzor képátlójával. A kis filmes fényképezőgépen ez nagyjából 50 mm. Az ez alatti gyújtótávolságú objektíveket **nagylátószögű objektív**-nek nevezzük. Az 50 mm fölöttieket pedig **teleobjektív**-nek nevezzük. A nagylátószögű objektívek a hátteret és a közelben lévő dolgokat aránytalanul nagyobbnak mutatják ezért nem szoktuk használni portréfotózáshoz mert eltorzítják az arcot. Működésük szerint kétféle objektívet ismerünk a zoom objektív a és a fix objektív alkalmas a portré fotózáshoz.
 
-A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak. A fix objektív gyújtótávolsága nem változtatható( ezért fix objektív). Az én kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi de nagy fényerejű, könnyű és portréfotózásra nagyon alkalmas.
+A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyújtótávolsága. A zoom objektívek használat közben praktikusak. A fix objektív gyújtótávolsága nem változtatható( ezért fix objektív). 
 
-**Az én felszerelésem:** A gépem egy Nikon digitális tükör reflexes D90 -es
+**Az én felszerelésem:** A gépem egy Nikon digitális tükör reflexes D90 -es.Az én kedvenc objektíven az 50 mm-es gyújtó távolságú mert kicsi de nagy fényerejű, könnyű és portréfotózásra nagyon alkalmas. Szoktam még 18-55 -ös obi.-val.
+
 
 
 
