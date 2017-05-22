@@ -134,7 +134,7 @@ Mivel a fénykép is mint a festmény kétdimenziós ezért a térhatás tökél
 
 ### A vonalvezetés:
 
-Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. Az egyenes vonalak lehetőleg ne legyenek párhuzamosak a kép széleivel. A párhuzamosság unalmas lehet.Portré fotózásnál ezért szoktam különleges sögeket alkalmazni.Például ezért szoktem legugolni. A távolba mutató egyenesek találkozási pontja az úgynevezett végtelen pont ne legyen a kép szélén. A görbe vonalak a kép téglalap vagy négyzet alakú kivágásába sokkal jobban hatnak. A kép különböző szélső pontjaiból induló vonalak alkalmasak lehetnek arra hogy a szemlélő tekintetét a témára vezessék.
+Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. Az egyenes vonalak lehetőleg ne legyenek párhuzamosak a kép széleivel. A párhuzamosság unalmas lehet. Portré fotózásnál ezért szoktam különleges sögeket alkalmazni. Például ezért szoktem legugolni. A távolba mutató egyenesek találkozási pontja az úgynevezett végtelen pont ne legyen a kép szélén. A görbe vonalak a kép téglalap vagy négyzet alakú kivágásába sokkal jobban hatnak. A kép különböző szélső pontjaiból induló vonalak alkalmasak lehetnek arra hogy a szemlélő tekintetét a témára vezessék.
 
 
 ### A tér elosztás vagy a terület elosztása:
