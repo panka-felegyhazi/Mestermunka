@@ -124,7 +124,7 @@ A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyúj
 
 ### Mi az a fényképszerűség?
 
-A fényképezőgép objektívje objektíven azaz valóságnak megfelelően látja világot a fényképezésnek tehát a valós ábrázolás az alapja(Ellentétben például az inpresszionista festésettel.). A fényképszerűség pedig nem más mint az ideális ábrázolásnak a fényképezésnek a sajátos eszközeivel való megközelítése. Fényképezés eredménye A fénykép tehát a fények és az árnyékok változatos megörőkítése.
+A fényképezőgép objektívje objektíven azaz valóságnak megfelelően látja világot a fényképezésnek tehát a valós ábrázolás az alapja(Ellentétben például az inpresszionista festésettel.). A fényképszerűség pedig nem más mint az ideális ábrázolásnak a fényképezésnek a sajátos eszközeivel való megközelítése. Fényképezés eredménye A fénykép tehát a fények és az árnyékok megörőkítése.
 
 
 ### A térhatás:
