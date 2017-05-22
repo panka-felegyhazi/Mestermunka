@@ -148,6 +148,6 @@ FOTÓIM
 Köszönetnyilvánítás
 -------------------
 
-Köszönöm,mindenkinek aki segített a mestermunkám készítése során: 
+Köszönöm mindenkinek aki segített a mestermunkám készítése során: 
 Az osztályfőnökeimnek:Veroninak és Icának
-A konzulensemnek: Félegyházi Gábornak ( az apukámnak) és az anyukámnak.
+A konzulensemnek: Félegyházi Gábornak ( az apukámnak) és az anyukámnak. Valamint a képeimen szereplő portré alanyaimnak, az osztálytársaimnak és barátamimnak, hogy hozzájárulta hogy publikálhassam a róluk készített képeimet.
