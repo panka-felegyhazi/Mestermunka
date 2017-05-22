@@ -107,9 +107,9 @@ Gyönyörű portrékat is készített.
 
 
 
+
 Fótózás elmélet és technika:
 ----------------------------
-
 
 ### Az objektívek:
 
