@@ -74,7 +74,7 @@ Az első tükörreflexes gép
 A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártásból bukkan elő, technikailag maga mögé utasítva  németeket akik ezen a téren az eggyi legügyessebbek. A Szovjetuni teljesen lemaradt. A japánok(Canon, Asahi - Pentax, Miranda, Nikon, Olympus és még sok másik) még csak álmodoznak, szövögetik világmegváltó terveiket, részben éppen Dulovits Jenő találmányaira alapozva.”
  Nem tudni, pontosan hány Duflex készült a Gammában. Működőképes és közepes esztétikai állapotú gép nem marad a milliós határ alatt ma az árveréseken. A különös műgonddal összeszerelt prototípust a Gamma Optikai Művek kötelességszerűen átadta a Műszaki Múzeumnak. Az összes többi magyar fényképezőgép társaságában itt volt a 001-es Duflex kiállítva a kilencvenes években, mígnem a múzeumba betörtek, és a teljes magyar kollekciót elrabolták. Felmerült a Műszaki Múzeum részéről a visszavásárlás gondolata is, de még a négymillió ft sem volt elég  az új tulajdonosnak.
 
-![Művészi fényképezés](img/)
+![Deflex, az első tükörreflexes gép](img/duflex.jpeg)
 
 
 Két könyve még ma is kapható:
