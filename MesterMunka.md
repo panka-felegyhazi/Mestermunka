@@ -119,8 +119,9 @@ A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyúj
 
 **Az én felszerelésem:** A gépem egy Nikon digitális tükörreflexes D90 -es. A kedvenc objektíven az 50 mm-es gyújtó távolságú fix mert kicsi és könnyű, de nagy fényerejű, portréfotózásra nagyon alkalmas. Szoktam még 18-55 mm-es zoom objektívvel is fényképezni. A zoom objekívvet tájképekekhez szoktam használni és utazásnál kültéren, mert igaz hogy kisebb a fényereje, de mivel kezdőknek való ezért könnyű és van benne autómata rázkódáscsökkentés.
 
-
-
+![Nikon D90](img/d90.jpg)
+![Nikon 50mm F1.8G](img/d90.jpg)
+![Nikon 18-55mm F3.5-56G VRII](img/d90.jpg)
 
 ### Mi az a fényképszerűség?
 
