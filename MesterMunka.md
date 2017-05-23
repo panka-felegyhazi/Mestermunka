@@ -151,6 +151,7 @@ Fényképezéskor fontos a fénykép területének azaz a képtérnek az eloszt�
 FOTÓIM
 ------
 
+![](img/27417426925_f28f25a72f_z.jpg)
 ![](img/26809166834_7c98af47bc_z.jpg)
 ![](img/26809168944_4e3b0620c1_z.jpg)
 ![](img/26809176764_6a2a220e5f_z.jpg)
@@ -158,7 +159,6 @@ FOTÓIM
 ![](img/26810441773_c956443f85_z.jpg)
 ![](img/26810449503_376da54e27_z.jpg)
 ![](img/26810609503_6b89752d1f_z.jpg)
-![](img/27417426925_f28f25a72f_z.jpg)
 
 
 Köszönetnyilvánítás
