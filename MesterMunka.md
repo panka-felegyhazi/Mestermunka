@@ -132,15 +132,19 @@ A fényképezőgép objektívje, objektíven azaz valóságnak megfelelően lát
 
 Mivel a fénykép is mint a festmény kétdimenziós ezért a térhatás tökéletes ábrázolása a fényképezésnél is nehéz feladat. Igazából erre több lehetőség is van (a térhatás elérésére). Egyik eszköze a kis mélységélesség. Ez az én kedvenc technikám, mert ezzel az előtér, a téma és a háttér elkülöníthető. Ha jól alkalmazzák akkor a téma éles a háttér és az előtér pedig nem. Többek között ennek a hatásnak az eléréséhez van szükség a nagy fényerejü fix objektívre. Javítja a térhatást az ellenfény alkalmazása vagy a levegőben terjengő por, füst, köd egyéb más ami befolyásolja a levegő átlátszóságát. A térhatás érzékeltetésére használhatjuk a képen elhelyezkedő vonalakat is, fontos hogy a képen hova helyezzük el a horizontot (ez tágíthatja vagy szűkítheti a teret) és például a kép sarkából a kép belseje felé haladó vonalak erősítik a térhatást.
 
+![](img/26809171194_536c7e099c_z.jpg)
 
 ### A vonalvezetés:
 
 Nagyon fontos hogy a képen elhelyezkedő egyenes vonalak hogyan jelennek meg. Az egyenes vonalak lehetőleg ne legyenek párhuzamosak a kép széleivel. A párhuzamosság unalmas lehet. Portré fotózásnál ezért szoktam különleges szögeket alkalmazni. Például ezért szoktem legugolni. A távolba mutató egyenesek találkozási pontja az úgynevezett végtelen pont ne legyen a kép szélén. A görbe vonalak a kép téglalap vagy négyzet alakú kivágásába sokkal jobban hatnak. A kép különböző szélső pontjaiból induló vonalak alkalmasak lehetnek arra hogy a szemlélő tekintetét a témára vezessék.
 
+![](img/27417660825_0d9a146422_z.jpg)
 
 ### A tér elosztás vagy a terület elosztása:
 
 Fényképezéskor fontos a fénykép területének azaz a képtérnek az elosztása. Ezt szoták komponálásának vagy a kép kompozíciójának is nevezni. A kép széleivel vigyázni kell, nehogy kimaradjon,levágjunk valamit. Ezért kell megfelelő teret hagyni a széleken, de fel is lehet rugni ezeket a szabályokat és direkt úgy nevezett szűkreszabott képet készíteni. Ezzel a megoldással ki lehet emelni a portréalany arckifejezését, szemeit. Javasolni szokták, hogy kerülendő a téma középrehelyezése, mert unalmassá teheti a képet, de kivételt lehet tenni például szűk mélységélességű protré esetén, mert így ki lehet használni, hogy az objektívek a kép közepén élesebben rajzolnak mint a széleken. Lehet alkalmazni az úgynevezett harmadolást is, amikor két függőleges és két vízszíntes vonallal (ezek a vonalak segítségül látszanak a gépem keresőjében is) három-három részre osztjuk a képet, ha ezek metszés pontjára, a harmadoló pontokra komponáljuk a témát az érdekesebbé, dinamikusabbá teszi a képet.
+
+![](img/27383662506_03bea8fe87_z.jpg)
 
 
 FOTÓIM
