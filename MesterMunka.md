@@ -127,6 +127,7 @@ A **zoom objektívnek** egy bizonyos tartományon belül változtatható a gyúj
 
 A fényképezőgép objektívje, objektíven azaz valóságnak megfelelően látja a világot, a fényképezésnek tehát a valós ábrázolás az alapja (ellentétben például az inpresszionista festésettel). A fényképszerűség pedig nem más mint az ideális ábrázolásnak a fényképezésnek a sajátos eszközeivel való megközelítése. Fényképezés eredménye A fénykép tehát a fények és az árnyékok megörőkítése.
 
+![](img/26810442593_bd5399e978_z.jpg)
 
 ### A térhatás:
 
