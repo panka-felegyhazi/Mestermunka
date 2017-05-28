@@ -94,6 +94,13 @@ A Duflex a szinte egyáltalán nem létező magyar fényképezőgép-gyártás
 Dulovits Jenő fotói
 -------------------
 
+
+![dulovits01](img/dulovits01.jpg)
+![dulovits02](img/dulovits02.jpg)
+![dulovits03](img/dulovits03.jpg)
+![dulovits04](img/dulovits04.jpg)
+
+
 Nem csak a gyönyörű fiatal nőket fotózta, hanem egyaránt az idősebbeket is.
 
 
