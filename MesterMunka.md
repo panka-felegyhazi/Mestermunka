@@ -100,6 +100,9 @@ Dulovits Jenő fotói
 Ez egy nagyon szép és tartalmas kép Dulovits Jenő gyűjteményéből. Nagyon sok érdekes és a korhoz képest nagyon fejlett tehnikával rendelkezik.
 
 ![dulovits02](img/dulovits02.jpg)
+
+Ez egy szép ellenfényes utcai jelenet. Ez az ellenfényes lágyitott stílus az úgynevezett "Magyar Stílus", többekközött Dulovits Jenő munkái után kapta ezt a nevet.
+
 ![dulovits03](img/dulovits03.jpg)
 ![dulovits04](img/dulovits04.jpg)
 
