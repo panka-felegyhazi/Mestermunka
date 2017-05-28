@@ -104,10 +104,12 @@ Ez egy nagyon szép és tartalmas kép Dulovits Jenő gyűjteményéből. Nagyon
 Ez egy szép ellenfényes utcai jelenet. Ez az ellenfényes lágyitott stílus az úgynevezett "Magyar Stílus", többekközött Dulovits Jenő munkái után kapta ezt a nevet.
 
 ![dulovits03](img/dulovits03.jpg)
+
+Fotó: Dulovits Jenő: Korcsolyázók, 1930. Ez az egyik kedvenc képem tőle.
+
 ![dulovits04](img/dulovits04.jpg)
 
-
-
+Korabeli budapesi látkép, Dulovits szemével.
 
 Fótózás elmélet és technika:
 ----------------------------
