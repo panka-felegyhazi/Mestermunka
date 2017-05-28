@@ -1,4 +1,4 @@
-![Fotóművészet](img/borito.jpeg)
+![Fotóművészet](img/borito.jpg)
 
 Fotóművészet
 ============
