@@ -96,21 +96,12 @@ Dulovits Jenő fotói
 
 
 ![dulovits01](img/dulovits01.jpg)
+
+Ez egy nagyon szép és tartalmas kép Dulovits Jenő gyűjteményéből. Nagyon sok érdekes és a korhoz képest nagyon fejlett tehnikával rendelkezik.
+
 ![dulovits02](img/dulovits02.jpg)
 ![dulovits03](img/dulovits03.jpg)
 ![dulovits04](img/dulovits04.jpg)
-
-
-Nem csak a gyönyörű fiatal nőket fotózta, hanem egyaránt az idősebbeket is.
-
-
-Ez egy nagyon szép és tartalmas kép Dulovits Jenő gyűjteményéből. Nagyon sok érdekes és a korhoz képest nagyon fejlett tehnikával rendelkezik. Nagyon érdekelte az emberi test felépítése (leginkább a női test de ez érthető hisz férfi) ezért csomó olyan képe van ahol a modell mesztelen. Kiváló megfigyelő képessége van.
-
-
-
-Ez pedig egy kicsit anatómiai. Ez az egyik legfontosabb területe a fotó művészetnek. Nincs művészettanulás az emberi testfelépítésének megtanulása nélkül.
-
-Gyönyörű portrékat is készített.
 
 
 
